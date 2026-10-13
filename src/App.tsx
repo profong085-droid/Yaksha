@@ -369,7 +369,7 @@ export default function App() {
         </button>
         <a className="brand" href="/en" aria-label="YAK home">
           <img
-            src="/LOGO%20YAK%20web.png"
+            src="/logo-yak-web.png"
             alt="YAK"
           />
         </a>
@@ -693,7 +693,7 @@ export default function App() {
         <div className="footer-top">
           <a className="footer-brand" href="/en" aria-label="YAK home">
             <img
-              src="/LOGO%20YAK%20web.png"
+              src="/logo-yak-web.png"
               alt="YAK"
               className="footer-logo-inverted"
             />

@@ -29,7 +29,7 @@ export type CartItem = {
 export const gift: Product = {
   id: "gift-card-50",
   name: "EZETA DIGITAL GIFT CARD",
-  image: "/LOGO%20YAK%20web.png",
+  image: "/logo-yak-web.png",
   hover: "",
   price: 50,
 }
