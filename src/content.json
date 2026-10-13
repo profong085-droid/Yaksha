@@ -1,0 +1,151 @@
+{
+  "slides": [
+    {
+      "image": "/products/yaksha-sirrush/poster.jpg?v=1",
+      "mobile": "/products/yaksha-sirrush/poster.jpg?v=1",
+      "title": "YAKSHA SPORTS SIRRUSH",
+      "link": "/en/products/yaksha-sports-sirrush-jersey"
+    },
+    {
+      "image": "https://ezeta.it/cdn/shop/files/7981-3.jpg?v=1783446259",
+      "mobile": "https://ezeta.it/cdn/shop/files/7981_579f8339-bf4f-404e-b824-b02945b0eb1a.jpg?v=1783445987",
+      "title": "PORTOFINO 26/27",
+      "link": "https://ezeta.it/en/products/portofino-26-27-jersey"
+    },
+    {
+      "image": "https://ezeta.it/cdn/shop/files/DSC07859.jpg?v=1786198523",
+      "mobile": "https://ezeta.it/cdn/shop/files/0002_Sirens_1.jpg?v=1786199174",
+      "title": "SORRENTO 26/27",
+      "link": "https://ezeta.it/en/collections/sorrento-la-terra-delle-sirene"
+    },
+    {
+      "image": "https://ezeta.it/cdn/shop/files/1477_59d5734d-5809-4610-b652-0554f4543aaa.jpg?v=1785103640",
+      "mobile": "https://ezeta.it/cdn/shop/files/1462.jpg?v=1784912128",
+      "title": "LATINA 26/27",
+      "link": "https://ezeta.it/en/collections/latina-26-27"
+    },
+    {
+      "image": "https://ezeta.it/cdn/shop/files/1604_5a6ef39f-129f-4a6a-ba19-d006c41c444c.jpg?v=1785086675",
+      "mobile": "https://ezeta.it/cdn/shop/files/1633.jpg?v=1784912379",
+      "title": "LATINA 26/27",
+      "link": "https://ezeta.it/en/collections/latina-26-27"
+    },
+    {
+      "image": "https://ezeta.it/cdn/shop/files/Progetto_senza_titolo_4_e253c5dc-1bb4-44bc-8474-5feb2a8c3da4.png?v=1762085839",
+      "mobile": "https://ezeta.it/cdn/shop/files/11_66499fa9-cf24-41da-883e-42290f17ed98.png?v=1762085811",
+      "title": "VIS AURELIA 25/26",
+      "link": "https://ezeta.it/en/collections/vis-aurelia"
+    }
+  ],
+  "products": [
+    {
+      "image": "/products/yaksha-sirrush/jersey.jpg?v=1",
+      "hover": "/products/yaksha-sirrush/model.jpg?v=1",
+      "name": "YAKSHA SPORTS SIRRUSH SPECIAL JERSEY",
+      "price": 85
+    },
+    {
+      "image": "https://ezeta.it/cdn/shop/files/PEC03377_43b976a5-7145-47bb-83f8-c1ed527e308c.jpg?v=1784993328",
+      "hover": "https://ezeta.it/cdn/shop/files/PEC03024.jpg?v=1784399972",
+      "name": "LATINA 26/27 HOME JERSEY",
+      "price": 79
+    },
+    {
+      "image": "https://ezeta.it/cdn/shop/files/0014__0007_PEC03422-Modifica.jpg?v=1782926416",
+      "hover": "https://ezeta.it/cdn/shop/files/0010__0011_PEC03290-Modifica.jpg?v=1782926415",
+      "name": "PORTOFINO 26/27 SPECIAL JERSEY",
+      "price": 79
+    },
+    {
+      "image": "https://ezeta.it/cdn/shop/files/0026_PEC03901.jpg?v=1785842853",
+      "hover": "https://ezeta.it/cdn/shop/files/0015_PEC03996.jpg?v=1785842852",
+      "name": "SORRENTO 26/27 LIGEA JERSEY",
+      "price": 85
+    },
+    {
+      "image": "https://ezeta.it/cdn/shop/files/FED03224-Modifica_0022_FED03213-Modifica_c8b1dc6b-0de5-40a0-aa4a-74c78d318e3b.png?v=1773742496",
+      "hover": "https://ezeta.it/cdn/shop/files/FED03224-Modifica_0004_PEC03602-Modifica.jpg?v=1773742496",
+      "name": "SORRENTO 25/26 AWAY JERSEY",
+      "price": 68
+    },
+    {
+      "image": "https://ezeta.it/cdn/shop/files/0006__0018_PEC00973.jpg?v=1780747759",
+      "hover": "https://ezeta.it/cdn/shop/files/0015__0008_PEC01250.jpg?v=1780747758",
+      "name": "TIVOLI 26/27 SPECIAL JERSEY",
+      "price": 79
+    },
+    {
+      "image": "https://ezeta.it/cdn/shop/files/PEC03922.jpg?v=1785853640",
+      "hover": "https://ezeta.it/cdn/shop/files/PEC04082.jpg?v=1785853639",
+      "name": "SORRENTO 26/27 LEUCOSIA JERSEY",
+      "price": 85
+    },
+    {
+      "image": "https://ezeta.it/cdn/shop/files/PEC03946.jpg?v=1785857165",
+      "hover": "https://ezeta.it/cdn/shop/files/PEC04462.jpg?v=1785857164",
+      "name": "SORRENTO 26/27 PARTENOPE JERSEY",
+      "price": 85
+    },
+    {
+      "image": "https://ezeta.it/cdn/shop/files/PEC03391.jpg?v=1784392418",
+      "hover": "https://ezeta.it/cdn/shop/files/PEC03101.jpg?v=1784392418",
+      "name": "LATINA 26/27 AWAY JERSEY",
+      "price": 79
+    }
+  ],
+  "clubs": [
+    {
+      "image": "/products/yaksha-sirrush/poster.jpg?v=1",
+      "name": "YAKSHA SPORTS"
+    },
+    {
+      "image": "https://ezeta.it/cdn/shop/files/Sirens_1_7e6b866f-49d9-4904-a74d-a077a4f77b17.jpg?v=1786293719",
+      "name": "SORRENTO"
+    },
+    {
+      "image": "https://ezeta.it/cdn/shop/files/1477_59d5734d-5809-4610-b652-0554f4543aaa.jpg?v=1785103640",
+      "name": "LATINA"
+    },
+    {
+      "image": "https://ezeta.it/cdn/shop/files/7789.jpg?v=1783447157",
+      "name": "PORTOFINO"
+    },
+    {
+      "image": "https://ezeta.it/cdn/shop/files/10_0d289cc9-ea33-4700-9709-cfc5aa9aea3f.png?v=1762085817",
+      "name": "VIS AURELIA"
+    },
+    {
+      "image": "https://ezeta.it/cdn/shop/files/hf_20260409_133306_ad619096-ab4d-42a7-9f51-b0b68817ba23.png?v=1777475229",
+      "name": "KPLER"
+    },
+    {
+      "image": "https://ezeta.it/cdn/shop/files/Home-Violet-_-Third-Gold-Edit-cover-home-card-collection.jpg?v=1733186527",
+      "name": "BOREALE"
+    },
+    {
+      "image": "https://ezeta.it/cdn/shop/files/Red-_-Black_c771369d-f8b2-4b95-8f24-54a3e69a69b4.jpg?v=1712675403",
+      "name": "ROMULEA"
+    },
+    {
+      "image": "https://ezeta.it/cdn/shop/files/Violet-_-Red-Caravaggio.jpg?v=1711040531",
+      "name": "OSTIAMARE"
+    },
+    {
+      "image": "https://ezeta.it/cdn/shop/files/Coliseum_1.jpg?v=1714485659",
+      "name": "ALBA ROMA"
+    }
+  ],
+  "logos": [
+    "https://ezeta.it/cdn/shop/files/Magazine13_54fd1a66-7ea5-48fe-a19c-0c02e8a0bbe1.png?v=1783508337",
+    "https://ezeta.it/cdn/shop/files/Magazine13_60a97372-64d0-44fd-910c-123741717a6b_copia.png?v=1783507681",
+    "https://ezeta.it/cdn/shop/files/Magazine47_b4ffc44d-e7c8-40ee-b4a2-a807cceb27b9.png?v=1722370929",
+    "https://ezeta.it/cdn/shop/files/Magazine-05_62ab828f-930a-4478-b9a0-b20358745760.png?v=1722370082",
+    "https://ezeta.it/cdn/shop/files/Magazine-07_d5b2e3c4-23b9-4f2f-810c-9340059d0379.png?v=1722370087",
+    "https://ezeta.it/cdn/shop/files/Magazine-09_3d6c8cd2-bdfe-443e-bd39-7cbd42c6c152.png?v=1722370093",
+    "https://ezeta.it/cdn/shop/files/Magazine-10_f3fcbf9c-7b72-4bc6-80aa-3d00709c5ae6.png?v=1722370097",
+    "https://ezeta.it/cdn/shop/files/Magazine-12_b4ea9767-57ec-42ff-8c88-5669d45c5cc0.png?v=1722370143",
+    "https://ezeta.it/cdn/shop/files/Magazine-13_78a1ca0d-806e-4c0b-b11f-295427127052.png?v=1722370150",
+    "https://ezeta.it/cdn/shop/files/Magazine-14_c9b4d552-b12a-426b-b57e-b38ec6d2794f.png?v=1722370159",
+    "https://ezeta.it/cdn/shop/files/Magazine-16_64b3b7e5-b7a8-4906-8092-8f4a17829612.png?v=1722370163"
+  ]
+}
